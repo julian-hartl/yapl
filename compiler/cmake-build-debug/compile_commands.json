@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/julianhartl/development/julianhartl/yapl/compiler/cmake-build-debug",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu11 -o CMakeFiles/yaplc.dir/src/main.c.o -c /Users/julianhartl/development/julianhartl/yapl/compiler/src/main.c",
+  "file": "/Users/julianhartl/development/julianhartl/yapl/compiler/src/main.c"
+}
+]
