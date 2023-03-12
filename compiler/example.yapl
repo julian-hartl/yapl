@@ -1,2 +1,8 @@
-a: integer = 10;
-a := 20;
+let a: integer = 10
+a := 20
+
+function f(x: integer): integer {
+    return x + 1
+}
+
+a := f(a)
